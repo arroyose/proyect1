@@ -7,5 +7,8 @@ public class p {
 		
 		
 		System.out.println("Ola");
+		System.out.println("Ola2");
+		System.out.println("Ola34");
+		System.out.println("Ola556");
 	}
 }
